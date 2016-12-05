@@ -1,0 +1,5 @@
+{
+  "name": "ng-file-upload",
+  "main": "dist/ng-file-upload.js",
+  "ignore": []
+}
